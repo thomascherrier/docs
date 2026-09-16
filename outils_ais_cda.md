@@ -58,7 +58,6 @@ Si vous débutez en MarkDown vous pouvez demander un CrashCourse à un IA en lig
 - Biais
 - ModelFile
 - SystemPrompt
-- Deep Learning
 - Données
 
 *Plus tout autre sigle,acronyme ou mot-clé que vous auriez choisi en plus*
