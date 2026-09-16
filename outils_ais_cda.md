@@ -78,9 +78,10 @@ Réaliser les salles du  parcours sur L'IA (les salles gratuites) dont au moins 
 - Se référer à cette [ressource](https://github.com/thomascherrier/TSSR/blob/main/baseline_debian.md) pour une post-install correcte
 - Se référer à cette [ressource](https://github.com/thomascherrier/postinstalldebian) pour une post-install automatisée
 
+
 *Si besoin me demander une VM toute faite*
 
-
+Pour s'améliorer en commande CLI et progresser dans l'administration système installez [GAMESHELL](https://github.com/phyver/GameShell)
 
 ## WSL
 
