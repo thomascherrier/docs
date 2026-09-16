@@ -87,6 +87,8 @@ https://tryhackme.com/room/ragsecurityfundamentals
 
 ## GIT & GITHUB
 
+Une [ressource](https://docs.github.com/en/get-started/start-your-journey/git-and-github-learning-resources) compendium pour appréhender l'univers git/github
+
 - Télécharger et installer VsCode
 - Installer des extentions (à minima l'extension Markdown)
 - S'inscrire sur Github
