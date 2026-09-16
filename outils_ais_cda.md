@@ -78,6 +78,8 @@ https://tryhackme.com/room/ragsecurityfundamentals
 - Se référer à cette [ressource](https://github.com/thomascherrier/TSSR/blob/main/baseline_debian.mdv) pour une post-install correcte
 - Se référer à cette [ressource](https://github.com/thomascherrier/postinstalldebian) pour une post-install automatisée
 
+*Si besoin me demander une VM toute faite*
+
 
 
 ## WSL
