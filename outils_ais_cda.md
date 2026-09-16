@@ -14,24 +14,24 @@
 
 ### Question & action à réaliser
 
+- Expliciter la procédure pas à pas pour installer un WebGUI sur votre LLM local
 - Peut on modifier le contexte d'un LLM local et si oui comment?
-- Comment faire ingérer à votre LLM local le contenu d'un dossier avec Quelques PDF?
-- Comment modifier le comportement général de notre LLM Local à l'aide d'un fichier?
-- Prouver que votre LLM local à pu ingérer correctement les données  de fichier PDF
-- Expliciter la procédure Pas à Pas pour installer un WebGUI sur votre LLM local
-- Comment forcer votre LLM local à aller chercher ce qu'il ne sait pas sur Internet, est-ce possible? et si oui comment
+- Comment faire ingérer à votre LLM local le contenu d'un dossier avec quelques PDF?
+- Comment modifier le comportement général de notre LLM Local à l'aide d'un fichier ?
+- Prouver que votre LLM local à pu ingérer correctement les données de fichiers PDF
+- Comment forcer votre LLM local à aller chercher ce qu'il ne sait pas sur Internet, est-ce possible? et si oui comment?
 
 ### Lexique IA
-*Classer, Réaliser en **.MD** via VSCode un lexique de l'IA que vous irez déposer sur votre **Github** perso dans un nouveau repository* : 
+*Classer, Réaliser en **.MD** via VsCode un lexique de l'IA que vous irez déposer sur votre **Github** perso dans un nouveau repository* : 
 
-Votre VSCode devra être connecté et synchroniser avec votre rep o github pour permettre la modification rapide du glossaire
+Votre VSCode devra être connecté et synchronisé avec votre repo github pour permettre la modification rapide du glossaire
 
 Si vous débutez en MarkDown vous pouvez demander un CrashCourse à un IA en ligne pour avoir les éléments de syntaxe
 
 - Inférence
 - RAG
 - ChatBot
-- Paeamêtre
+- Paramètre
 - DataSet
 - Agent IA
 - Modèle
@@ -44,7 +44,7 @@ Si vous débutez en MarkDown vous pouvez demander un CrashCourse à un IA en lig
 - IA Adpatative
 - IA Générale
 - Ollama
-- IA Génrative
+- IA Générative
 - Singularité Technologique
 - LLM
 - Hallucination
@@ -56,7 +56,7 @@ Si vous débutez en MarkDown vous pouvez demander un CrashCourse à un IA en lig
 - Test de Turing
 - Big Data
 - Biais
-- ModelFIle
+- ModelFile
 - SystemPrompt
 - Deep Learning
 - Données
@@ -65,14 +65,14 @@ Si vous débutez en MarkDown vous pouvez demander un CrashCourse à un IA en lig
 
 ### Parcours THM sur l'IA
 Inscrivez vous sur TryHackMe
-Réaliser les salles du  parcours sur L'IA (les salles gratuites) dont au moins celle-ci
+Réaliser les salles du  parcours sur L'IA (les salles gratuites) dont au moins celle-ci :
 https://tryhackme.com/room/ragsecurityfundamentals
-
-## GIT & GITHUB
-*TBA*
 
 ## VMWARE
 *TBA*
 
 ## WSL
+*TBA*
+
+## GIT & GITHUB
 *TBA*
