@@ -74,7 +74,7 @@ https://tryhackme.com/room/ragsecurityfundamentals
 - Télécharger VMWare Workstation 26H1
 - Télécharger la dernière iso de Débian 13
 - Installer une VM light de debian 13 (1 Vcore, 2Go de Ram, 12 Go de HD, NAT)
-- Installer les paquets suivant (`apt install nmap ncdu zip curl lynx net-tools dnsutils screen git`)
+- Installer les paquets suivant (`apt install ssh nmap ncdu zip curl lynx net-tools dnsutils screen git`)
 
 
 ## WSL
