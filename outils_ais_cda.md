@@ -65,8 +65,8 @@ Si vous débutez en MarkDown vous pouvez demander un CrashCourse à un IA en lig
 
 ### Parcours THM sur l'IA
 Inscrivez vous sur TryHackMe
-Réaliser les salles du  parcours sur L'IA (les salles gratuites) dont au moins celle-ci :
-https://tryhackme.com/room/ragsecurityfundamentals
+Réaliser les salles du  parcours sur L'IA (les salles gratuites) dont au moins celle-ci : [The Building Blocks of AI](https://tryhackme.com/room/aimlsecuritythreats)
+
 
 ## VMWARE
 
