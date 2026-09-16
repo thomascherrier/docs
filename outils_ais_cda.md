@@ -4,7 +4,7 @@
 
 ### Etat de l'art de l'IA et création d'un nouveau paradigme
 
-[Une vidéo de pertinente 22 Minutes](https://www.youtube.com/watch?v=Pdfanhj0qsk)
+[Une vidéo pertinente 22 Minutes](https://www.youtube.com/watch?v=Pdfanhj0qsk)
  
 ### TP IA
 - Installer une machine physique avec une distribution Debian ou Ubuntu Server récente avec à minima 16 go de RAM
