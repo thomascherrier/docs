@@ -75,7 +75,8 @@ https://tryhackme.com/room/ragsecurityfundamentals
 - Télécharger la dernière iso de Débian 13
 - Installer une VM light de debian 13 (1 Vcore, 2Go de Ram, 12 Go de HD, NAT)
 - Installer les paquets suivant (`apt install ssh nmap ncdu zip curl lynx net-tools dnsutils screen git`)
-- Se référer à cette [ressource](https://github.com/thomascherrier/TSSR/blob/main/baseline_debian.md) pour une post-install correcte : 
+- Se référer à cette [ressource](https://github.com/thomascherrier/TSSR/blob/main/baseline_debian.mdv) pour une post-install correcte
+- Se référer à cette [ressource] (https://github.com/thomascherrier/postinstalldebian) pour une post-install automatisée
 
 
 
