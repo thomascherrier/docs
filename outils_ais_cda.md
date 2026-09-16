@@ -69,7 +69,13 @@ Réaliser les salles du  parcours sur L'IA (les salles gratuites) dont au moins 
 https://tryhackme.com/room/ragsecurityfundamentals
 
 ## VMWARE
-*TBA*
+
+- S'inscrire gratuitement sur le site Broadcomm VMWARE
+- Télécharger VMWare Workstation 26H1
+- Télécharger la dernière iso de Débian 13
+- Installer une VM light de debian 13 (1 Vcore, 2Go de Ram, 12 Go de HD, NAT)
+- Installer les paquets suivant (`apt install nmap ncdu zip curl lynx net-tools dnsutils screen git`)
+
 
 ## WSL
 *TBA*
