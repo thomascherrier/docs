@@ -41,7 +41,7 @@ Si vous débutez en MarkDown vous pouvez demander un CrashCourse à un IA en lig
 - Qwen
 - Deep Learning
 - GPT
-- IA Adpatative
+- IA Adaptative
 - IA Générale
 - Ollama
 - IA Générative
