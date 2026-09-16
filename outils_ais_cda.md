@@ -96,3 +96,10 @@ Une [ressource](https://docs.github.com/en/get-started/start-your-journey/git-an
 - Créer un nouveau Repo
 - Connecter votre VsCode à Github
 - Synchroniser un fichier .md avec votre repo
+
+## Aller plus loin
+
+Dans les autres outils à maîtriser pour les 2 cursus
+- **Docker**
+- **Gestionnaire de mot de passe**
+- La **"privacy"** ou [confidentialité](https://privacytools.io)
