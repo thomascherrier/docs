@@ -81,4 +81,10 @@ https://tryhackme.com/room/ragsecurityfundamentals
 *TBA*
 
 ## GIT & GITHUB
-*TBA*
+
+- Télécharger et installer VsCode
+- Installer des extentions (à minima l'extension Markdown)
+- S'inscrire sur Github
+- Créer un nouveau Repo
+- Connecter votre VsCode à Github
+- Synchroniser un fichier .md avec votre repo
