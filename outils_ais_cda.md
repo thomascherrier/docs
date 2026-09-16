@@ -83,7 +83,8 @@ https://tryhackme.com/room/ragsecurityfundamentals
 
 
 ## WSL
-*TBA*
+
+Le [cours officiel Microsoft](https://learn.microsoft.com/fr-fr/windows/wsl/install) pour installer WSL
 
 ## GIT & GITHUB
 
